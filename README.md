@@ -128,4 +128,4 @@ This work is licensed under the [MIT License](LICENSE) - feel free to use and ad
 
 *Last Updated: June 11, 2025*
 
-*For professional IT services and consultation in the Dallas-Fort Worth area, visit [ITECS](itecsonline.com)*
+*For professional IT services and consultation in the Dallas-Fort Worth area, visit [ITECS](https://itecsonline.com)*
