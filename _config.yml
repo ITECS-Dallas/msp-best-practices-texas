@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Msp Best Practices Texas
+description: Expert IT guidance and resources for Dallas-Fort Worth businesses
+google_analytics: # Add your GA tracking ID here
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
